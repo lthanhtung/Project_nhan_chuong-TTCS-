@@ -1,0 +1,10 @@
+D:\Project_nhan_chuong-TTCS-\NhanChuong\NhanChuong\bin\Debug\NhanChuong.exe.config
+D:\Project_nhan_chuong-TTCS-\NhanChuong\NhanChuong\bin\Debug\NhanChuong.exe
+D:\Project_nhan_chuong-TTCS-\NhanChuong\NhanChuong\bin\Debug\NhanChuong.pdb
+D:\Project_nhan_chuong-TTCS-\NhanChuong\NhanChuong\obj\Debug\Sever.csproj.AssemblyReference.cache
+D:\Project_nhan_chuong-TTCS-\NhanChuong\NhanChuong\obj\Debug\NhanChuong.Sever.resources
+D:\Project_nhan_chuong-TTCS-\NhanChuong\NhanChuong\obj\Debug\NhanChuong.Properties.Resources.resources
+D:\Project_nhan_chuong-TTCS-\NhanChuong\NhanChuong\obj\Debug\Sever.csproj.GenerateResource.cache
+D:\Project_nhan_chuong-TTCS-\NhanChuong\NhanChuong\obj\Debug\Sever.csproj.CoreCompileInputs.cache
+D:\Project_nhan_chuong-TTCS-\NhanChuong\NhanChuong\obj\Debug\NhanChuong.exe
+D:\Project_nhan_chuong-TTCS-\NhanChuong\NhanChuong\obj\Debug\NhanChuong.pdb

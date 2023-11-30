@@ -1,0 +1,10 @@
+D:\Project_nhan_chuong-TTCS-\NhanChuong\Client\bin\Debug\Client.exe.config
+D:\Project_nhan_chuong-TTCS-\NhanChuong\Client\bin\Debug\Client.exe
+D:\Project_nhan_chuong-TTCS-\NhanChuong\Client\bin\Debug\Client.pdb
+D:\Project_nhan_chuong-TTCS-\NhanChuong\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\Project_nhan_chuong-TTCS-\NhanChuong\Client\obj\Debug\Client.Client.resources
+D:\Project_nhan_chuong-TTCS-\NhanChuong\Client\obj\Debug\Client.Properties.Resources.resources
+D:\Project_nhan_chuong-TTCS-\NhanChuong\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\Project_nhan_chuong-TTCS-\NhanChuong\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\Project_nhan_chuong-TTCS-\NhanChuong\Client\obj\Debug\Client.exe
+D:\Project_nhan_chuong-TTCS-\NhanChuong\Client\obj\Debug\Client.pdb
