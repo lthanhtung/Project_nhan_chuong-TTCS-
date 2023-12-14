@@ -49,7 +49,7 @@ namespace NhanChuong
         IPEndPoint IP; // Tạo ip để biết phần mền nào truyền tin đến
         Socket sever;
         List<Socket> CLientList; // tạo danh sách lưu các client kết nối
-
+        
         //Kết nối sever
         void Connect()
         {
@@ -137,7 +137,7 @@ namespace NhanChuong
         //add tin lên text box
         void AddMessage(string message)
         {
-            DanhsachNhanChuong.Items.Add(new ListViewItem() { Text = message });
+            DanhsachNhanChuong.Items.Add(new ListViewItem() { Text = message + " " + "đã nhấn chuông vào giây thứ:" + label1.Text });
 
         }
 

@@ -132,15 +132,28 @@ namespace Client
         {
             int thoigian = demnguoc; // Lấy giá trị demnguoc
            
-            while (thoigian > 0)
+            while (thoigian > 0 )
             {
-                label1.Text = thoigian.ToString(); // Cập nhật Label với số giây còn lại
-                Thread.Sleep(1000); // Đợi 1 giây
-
-                thoigian--; // Giảm số giây
-                Start_click = true;
-                Chuong.Enabled = true;
                 
+                if (  thoigian > 0 && thoigian <= 10)
+                {
+
+
+                    label1.Text = thoigian.ToString(); // Cập nhật Label với số giây còn lại
+                    Thread.Sleep(1000); // Đợi 1 giây
+
+                    thoigian--; // Giảm số giây
+                    Start_click = true;
+                    Chuong.Enabled = true;
+                }
+                   
+
+            }
+            if (thoigian == 0)
+            {
+                Chuong.Enabled = false;
+                Start_click = false;
+
             }
 
             label1.Text = demnguoc.ToString(); // Hiển thị giá trị ban đầu của demnguoc
@@ -150,7 +163,14 @@ namespace Client
         //add tin lên text box
         void AddMessage(string message)
         {
-            Danhsach.Items.Add(new ListViewItem() { Text = message });
+           
+
+
+
+            Danhsach.Items.Add(new ListViewItem() { Text = message + " " + "đã nhấn chuông vào giây thứ:" + label1.Text});
+            
+            
+                
             
 
         }
